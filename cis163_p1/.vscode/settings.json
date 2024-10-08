@@ -1,0 +1,9 @@
+{
+    "code-review.categories": [
+        "Predict Output",
+        "Predict Output (with code changes)",
+        "Provide sample input",
+        "Rewrite",
+        "Short Answer",
+    ],
+  }
