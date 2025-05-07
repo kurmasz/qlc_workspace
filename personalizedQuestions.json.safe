@@ -1,0 +1,17 @@
+[
+  {
+    "filePath": "/Users/kurmasz/Documents/LocalResearch/QLC/qlc_workspace/cis500_hw5/syedn@mail.gvsu.edu_1_homework/hw_branching1_1_1_156336802_ic_branching.ipynb",
+    "range": {
+      "start": {
+        "line": 1,
+        "character": 0
+      },
+      "end": {
+        "line": 8,
+        "character": 35
+      }
+    },
+    "text": "What happens when you change `date` to `something_else`?\n\n~~~\ndef date_fashion(you, date):\n   \n    if you <= 2 or date <= 2:\n        return 0  # No table if either is very unstylish (2 or less)\n    elif you >= 8 or date >= 8:\n        return 2  # Yes, if either is very stylish (8 or more)\n    else:\n        return 1  # Maybe otherwise\n~~~",
+    "highlightedCode": "def date_fashion(you, date):\n   \n    if you <= 2 or date <= 2:\n        return 0  # No table if either is very unstylish (2 or less)\n    elif you >= 8 or date >= 8:\n        return 2  # Yes, if either is very stylish (8 or more)\n    else:\n        return 1  # Maybe otherwise"
+  }
+]

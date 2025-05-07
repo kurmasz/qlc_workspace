@@ -17,7 +17,7 @@ PORT = 8534  # Port to listen on (non-privileged ports are > 1023)
 STUDENT_DATA_DIR = os.path.abspath(".")
 
 # Dictionary mapping extensions to mime types
-# (Feel free to add to / modify this dictionary)
+# (Feel free to  add to / modify this dictionary)
 EXTENSION_MAP = {
         ".jpeg": "image/jpeg",
         ".jpg": "image/jpeg",
